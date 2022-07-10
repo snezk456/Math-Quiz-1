@@ -18,11 +18,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#number1
 {
 	width: 60%;
 }
-#word_display
+#number_display
 {
 	letter-spacing: 5px;
 }
@@ -44,4 +44,5 @@ text-align: left;
 h1
 {
     color: white;
+	text-align: center;
 }
